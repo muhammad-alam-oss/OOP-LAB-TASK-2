@@ -20,7 +20,7 @@ designation
 salary
 department
 
-What it prints
+What it prints:
 ---- Student info ----
 Name = Alam
 age =19
