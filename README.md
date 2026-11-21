@@ -19,3 +19,19 @@ teacher extends uniPersonal and adds:
 designation
 salary
 department
+
+What it prints
+---- Student info ----
+Name = Alam
+age =19
+gender = male
+Degree program =BSCS
+CGPA =3.02
+Samester = 2
+--------Teacher Info------
+Name = sirr
+age =25
+gender = male
+Designation = Professer
+Salary =100000.0
+Department =BSCS
